@@ -750,4 +750,4 @@ def services_keyboard(services):
 async def api_request(action, data=None):
     payload = {"key": SMM_API_KEY, "action": action}
     if data:
-        payload.update(d
+        payload.update
