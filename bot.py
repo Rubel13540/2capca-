@@ -34,10 +34,10 @@ TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "").strip()
 # keep it in Railway Variables instead of exposing it in chat/code.
 SMM_API_KEY = os.getenv(
     "SMM_API_KEY",
-    "7c40378a49cfaec87f7e0b54fd646dd4",
+    "293e167bf0017e7e8b28a7261338b6b6",
 ).strip()
 
-SMM_API_URL = "https://socialpanel.pro/api/v2"
+SMM_API_URL = "https://smmpakpanel.com/"
 
 ADMIN_ID = 5293614793
 
