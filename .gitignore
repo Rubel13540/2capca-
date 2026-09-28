@@ -1,3 +1,5 @@
 .env
 __pycache__/
 *.pyc
+bot_database.db-shm
+bot_database.db-wal
